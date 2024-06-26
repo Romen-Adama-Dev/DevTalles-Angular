@@ -1,6 +1,3 @@
-Claro, aquí tienes el contenido completo del archivo `README.md` en formato Markdown para que puedas copiar y pegar:
-
-```markdown
 # DevTalles Angular
 
 Este repositorio contiene los recursos y proyectos desarrollados a lo largo del curso "Angular de 0 a Experto". A lo largo de este curso, aprenderás desde los fundamentos básicos de Angular hasta las técnicas avanzadas necesarias para construir aplicaciones web robustas y escalables. Cada sección del curso está acompañada de ejemplos prácticos y proyectos completos que facilitan el aprendizaje y la aplicación de los conceptos.
